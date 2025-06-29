@@ -1,0 +1,11 @@
+{
+  "Action": "tracking",
+  "Altitude": 0.0,
+  "Direction": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Speed": 3.0,
+  "TrackingDistance": 0.0
+}
